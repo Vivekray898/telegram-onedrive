@@ -13,14 +13,14 @@ services:
     environment:
       # - trace_level=info
       # - worker_num=5
-      - server_uri=https://xxxxxxxx.com
+      - server_uri=http://bluekites.org
       # - reverse_proxy=true
-      - tg_bot_token=xxxxxxxxxx:xxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxx
-      - tg_api_id=xxxxxxxx
-      - tg_api_hash=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-      - tg_user_phone=+xxyyyyyyyyyyy
-      # - tg_user_password=xxxxxxxx
-      # - tg_user_name=xxxxxxxx
+      - tg_bot_token=7141807680:AAHx8OLz4kvjwLcGJpKgBbdmUlK9fKNAVaQ
+      - tg_api_id=27899236
+      - tg_api_hash=d8b6d3b88541bacff8d8268bdacea54e
+      - tg_user_phone=+12134186431
+      # - tg_user_password=Motupat@#13
+      # - tg_user_name=@Senzuko_Chan
       - od_client_id=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
       - od_client_secret=xxxxx~x.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx
       - od_root_path=/xxxxxxxx
