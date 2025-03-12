@@ -19,8 +19,8 @@ services:
       - tg_api_id=27899236
       - tg_api_hash=d8b6d3b88541bacff8d8268bdacea54e
       - tg_user_phone=+12134186431
-      # - tg_user_password=Motupat@#13
-      # - tg_user_name=@Senzuko_Chan
+       - tg_user_password=Motupat@#13
+       - tg_user_name=@Senzuko_Chan
       - od_client_id=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
       - od_client_secret=xxxxx~x.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx
       - od_root_path=/xxxxxxxx
